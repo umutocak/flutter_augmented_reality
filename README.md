@@ -1,6 +1,6 @@
 # flutter_augmented_reality
 
-A new Flutter project.
+In this application we will see the use of augmented reality with flutter..
 
 ## Getting Started
 
